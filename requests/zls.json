@@ -1,0 +1,5 @@
+{
+	"zig_exe_path": "/opt/homebrew/bin/zig",
+	"semantic_tokens": "partial",
+	"enable_build_on_save": true
+}
